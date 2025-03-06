@@ -46,3 +46,27 @@ Admins can view all student assignments.
 
 1️⃣ Clone the Repository
 -----------------------
+git@github.com:MAVeny426/ClassRoom_Management_System.git
+cd classroom-management
+
+2️⃣ Install Dependencies
+-----------------------
+For React Native (Frontend)
+---------------------------
+cd CRM
+npm install
+
+For NestJS (Backend)
+--------------------
+cd crm_backend
+npm install
+
+3️⃣ Run the Backend Server
+------------------------
+cd crm_backend
+npm run start
+
+4️⃣ Run the React Native App
+--------------------------
+cd CRM
+npm run start
