@@ -41,3 +41,8 @@ Admins can delete classes.
 
 Admins can view all student assignments.
 
+🚀 Getting Started
+------------------
+
+1️⃣ Clone the Repository
+-----------------------
