@@ -55,20 +55,28 @@ cd classroom-management
 -----------------------
 For React Native (Frontend)
 ---------------------------
+```bash
 cd CRM
 npm install
+```
 
 For NestJS (Backend)
 --------------------
+```bash
 cd crm_backend
 npm install
+```
 
 3️⃣ Run the Backend Server
 ------------------------
+```bash
 cd crm_backend
 npm run start
+```
 
 4️⃣ Run the React Native App
 --------------------------
+```bash
 cd CRM
 npm run start
+```
