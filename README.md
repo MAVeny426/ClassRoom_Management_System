@@ -10,7 +10,7 @@ This is a Classroom Management System built using React Native for the frontend 
 
 Frontend: React Native (JavaScript)
 
-Backend: NestJS (TypeScript) with Express
+Backend: NestJS (TypeScript)
 
 Database: MongoDB
 
